@@ -1,1 +1,6 @@
 
+## Wireframes
+https://miro.com/welcomeonboard/SmVCTDhjVXVDTGNIT056RitXb3RKbklSak9ENzFWeGc4ekl4VUVia1ByalVlTTI1QitFZEJCMWZoVVFKZEZRWjg3MmYvYXdMTzgzYUlobW90V3N1a3ZLYzY3Y2x0WVZ2V3dLNjZHK25GMHhUUGttTStwa0JOVXRWS3pwWUpsSmJ3VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=342011462728
+
+## Figma-Designer
+https://www.figma.com/design/zGmAqxg56r9dyWxjUHnRYy/Voxen?node-id=0-1&p=f
